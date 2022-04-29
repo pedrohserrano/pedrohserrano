@@ -1,15 +1,13 @@
 
-<h1 align="left">Hi 👋 this is Pedro!</h1>
-<h3 align="left">A mexican foodie that is obessed with data governance topics</h3>
+<h2 align="left">Hi 👋 this is Pedro!</h1>
 
 <a href="https://orcid.org/0000-0002-4646-4666" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0002--1501--1082-a6ce39?logo=orcid" /></a>
-<a href="https://scholar.google.com/citations?user=EvyddzkAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-Pedro%20Hernandez-blue" />
+<a href="https://scholar.google.com/citations?user=EvyddzkAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-Pedro%20Hernandez-blue" /></a>
    
-- 🕶 I work in the intersection of Law, Policy and Data Science. Currently as Data Steward  
-
-- 🎓 I’m currently learning how legal frameworks impact data technologies
-
-- 🌱 Things that I've enjoyed the most
+ <h3 align="left">A mexican foodie that is obessed with data governance topics</h3>
+ 
+- 🕶 I work in the intersection of Law, Policy and Data Science. Currently as Data Steward dealing with legal frameworks impacting data technologies
+- 🌱 Projects I've enjoyed doing:
   -  Teaching [Quantitative Methods course](https://maastrichtu-ids.github.io/global-studies/)
   -  Co-leading the project [LegalTecg for Consumer Protection](http://legaltech-mepli.nl/)
   -  Co-developing the data architecture of [CbCM Database](https://www.maastrichtuniversity.nl/research/item/research/archive/cross-border-corporate-mobility-eu)
