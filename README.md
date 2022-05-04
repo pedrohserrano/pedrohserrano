@@ -1,19 +1,17 @@
 
-<h2 align="left">Hi 👋 this is Pedro!</h1>
-
-<a href="https://orcid.org/0000-0002-4646-4666" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0002--1501--1082-a6ce39?logo=orcid" /></a>
+<a href="https://orcid.org/0000-0002-4646-4666" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0002--4646--4666-a6ce39?logo=orcid" /></a>
 <a href="https://scholar.google.com/citations?user=EvyddzkAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-Pedro%20Hernandez-blue" /></a>
    
- <h3 align="left">A mexican foodie that is obessed with data governance topics</h3>
+ <h3 align="left">Hi 👋 this is Pedro! A mexican foodie that is obessed with data governance topics</h3>
  
-- 🕶 I work in the intersection of Law, Policy and Data Science. Currently as Data Steward dealing with legal frameworks impacting data technologies
+- 🕶 I work in the intersection of Law, Policy and Data Science. Currently as Faculty Data Steward dealing with legal and compliance frameworks impacting data technologies
 - 🌱 Projects I've enjoyed doing:
-  -  Teaching [Quantitative Methods course](https://maastrichtu-ids.github.io/global-studies/)
-  -  Co-leading the project [LegalTecg for Consumer Protection](http://legaltech-mepli.nl/)
-  -  Co-developing the data architecture of [CbCM Database](https://www.maastrichtuniversity.nl/research/item/research/archive/cross-border-corporate-mobility-eu)
-  -  Developed [CrowdED statistical package](https://github.com/MaastrichtU-IDS/crowdED)
+  -  Teaching [Quantitative Methods course](https://maastrichtu-ids.github.io/global-studies/), [Data Science Bootcamp](https://github.com/pedrohserrano/data-science-bootcamp) and [Financial Text Analysis](https://github.com/MaastrichtU-IDS/text-analytics-bootcamp-pggm)
+  -  Co-leading the project [LegalTech for Consumer Protection](http://legaltech-mepli.nl/)
+  -  Co-developing the data architecture of [CbCM Database](https://eu-corporate-mobility.org/) and [Case Law Explorer](https://maastrichtlawtech.github.io/case-law-explorer/)
+  -  Developed [CrowdED statistical package](https://github.com/MaastrichtU-IDS/crowdED) and the [CleanTechTag Method](https://github.com/MaastrichtU-IDS/clean-technologies-nlp)
 
-- 💬 If you happen to be a **Data Steward** or a **Data Governance Nerd** working in Research please write me a line I've got some eaxciting projects to share!!!
+- 💬 If you happen to be a **Data Steward** or a **Data Governance Nerd** working in Research please write me a line I've got some exciting projects to share!!!
 
 <h3 align="left">Find me on</h3>
 <p align="left">
