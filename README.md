@@ -6,10 +6,17 @@
  
 - 🕶 I work in the intersection of Law, Policy and Data Science. Currently as Faculty Data Steward dealing with legal and compliance frameworks impacting data technologies
 - 🌱 Projects I've enjoyed doing:
-  -  Teaching [Quantitative Methods course](https://maastrichtu-ids.github.io/global-studies/), [Data Science Bootcamp](https://github.com/pedrohserrano/data-science-bootcamp) and [Financial Text Analysis](https://github.com/MaastrichtU-IDS/text-analytics-bootcamp-pggm)
-  -  Co-leading the project [LegalTech for Consumer Protection](http://legaltech-mepli.nl/)
-  -  Co-developing the data architecture of [CbCM Database](https://eu-corporate-mobility.org/) and [Case Law Explorer](https://maastrichtlawtech.github.io/case-law-explorer/)
-  -  Developed [CrowdED statistical package](https://github.com/MaastrichtU-IDS/crowdED) and the [CleanTechTag Method](https://github.com/MaastrichtU-IDS/clean-technologies-nlp)
+  -  Co-leading [LegalTech for Consumer Protection](http://legaltech-mepli.nl/) (Data Science applied to Law Enforcement)
+  -  Teaching and trainings
+      - [Circular Research Data Bootcamp](https://maastrichtu-library.github.io/circular-research-data-bootcamp/)
+      - [Quantitative Methods course](https://maastrichtu-ids.github.io/global-studies/)
+      - [Data Science Bootcamp](https://github.com/pedrohserrano/data-science-bootcamp)
+      - [Financial Text Analysis](https://github.com/MaastrichtU-IDS/text-analytics-bootcamp-pggm)
+  -  Co-developed infra 
+      - [CbCM Database](https://eu-corporate-mobility.org/)
+      - [Case Law Explorer](https://maastrichtlawtech.github.io/case-law-explorer/)
+      - [CrowdED statistical package](https://github.com/MaastrichtU-IDS/crowdED)
+      - [CleanTechTag Method](https://github.com/MaastrichtU-IDS/clean-technologies-nlp)
 
 - 💬 If you happen to be a **Data Steward** or a **Data Governance Nerd** working in Research please write me a line I've got some exciting projects to share!!!
 
