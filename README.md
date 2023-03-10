@@ -2,13 +2,13 @@
 <a href="https://orcid.org/0000-0002-4646-4666" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0002--4646--4666-a6ce39?logo=orcid" /></a>
 <a href="https://scholar.google.com/citations?user=EvyddzkAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-Pedro%20Hernandez-blue" /></a>
    
- <h3 align="left">Hi 👋 this is Pedro! A mexican foodie that is obessed with data governance topics</h3>
+ <h3 align="left">Hi 👋 this is Pedro! A mexican foodie interested in data governance topics</h3>
  
 - 🕶 I work in the intersection of Law, Policy and Data Science. Currently as Faculty Data Steward dealing with legal and compliance frameworks impacting data technologies
 - 🌱 Projects I've enjoyed doing:
   -  Co-leading [LegalTech for Consumer Protection](https://pedrohserrano.github.io/legaltech-consumer-protection/) (Data Science applied to Law Enforcement)
   -  Teaching and trainings
-      - [Circular Research Data Bootcamp](https://maastrichtu-library.github.io/circular-research-data-coursebook/)
+      - [Circular Research Data Coursebook](https://maastrichtu-library.github.io/circular-research-data-coursebook/)
       - [Quantitative Methods course](https://maastrichtu-ids.github.io/global-studies/)
       - [Data Science Bootcamp](https://github.com/pedrohserrano/data-science-bootcamp)
       - [Financial Text Analysis](https://github.com/MaastrichtU-IDS/text-analytics-bootcamp-pggm)
