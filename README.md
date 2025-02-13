@@ -22,13 +22,10 @@
 
 - 💬 I'm always game to exchange experiences with other data steward practitioners.
 
-<h3 align="left">Find me on</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pedrohserrano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://x.com/pedrohserrano" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/X_logo_2023.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pedrohserrano/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" width="40" /></a>
-<a href="https://www.goodreads.com/user/show/11298888-pedro-v-hern-ndez-serrano" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Goodreads_%27g%27_logo.svg" height="30" width="40" /></a>
-</p>
+### Find me on:
+- [LinkedIn/pedrohserrano](https://www.linkedin.com/in/pedrohserrano/)
+- [Instagram/pedrohdezserrano](https://www.instagram.com/pedrohdezserrano/)
+- [Goodreads/pedrohserrano](https://www.goodreads.com/user/show/11298888-pedro-v-hern-ndez-serrano)
 
 <h3 align="left">Some technology stack I use (the most)</h3>
 <p align="left"> 
